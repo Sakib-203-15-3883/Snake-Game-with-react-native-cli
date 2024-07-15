@@ -1,4 +1,12 @@
 {
   "name": "snake424242",
-  "displayName": "snake424242"
+  "displayName": "snake424242",
+  
+
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-8504264785596008~3374875166"
+    
+  }
+
+
 }
